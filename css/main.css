@@ -382,3 +382,8 @@ main .sec-head p + p{margin-top:10px}
 .hero-grid > *{min-width:0}
 .strow b{overflow-wrap:anywhere}
 .embox .kick,.localnote .kick{display:block;margin-bottom:8px}
+.foot-follow{margin-top:14px}
+.foot-grid ul.foot-social{display:flex;flex-wrap:wrap;gap:8px;list-style:none;margin:0;padding:0}
+.foot-social li{list-style:none;margin:0}
+.site-foot .foot-social a{display:inline-block;padding:7px 12px;border:1px solid var(--line);border-radius:100px;font-size:13.5px;font-weight:600;color:var(--ink);background:var(--lav-t)}
+.site-foot .foot-social a:hover{background:var(--lav-d);border-color:var(--lav-d);color:#fff}
