@@ -387,3 +387,5 @@ main .sec-head p + p{margin-top:10px}
 .foot-social li{list-style:none;margin:0}
 .site-foot .foot-social a{display:inline-block;padding:7px 12px;border:1px solid var(--line);border-radius:100px;font-size:13.5px;font-weight:600;color:var(--ink);background:var(--lav-t)}
 .site-foot .foot-social a:hover{background:var(--lav-d);border-color:var(--lav-d);color:#fff}
+.hood-links{margin:22px auto 0;max-width:900px;text-align:center;font-size:15.5px;line-height:1.8}
+.hood-links a{font-weight:600}
